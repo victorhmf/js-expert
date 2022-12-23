@@ -1,0 +1,12 @@
+export default () => ({
+  users: [
+    {
+      id: 1,
+      credits: {
+        email: 0,
+        sms: 1,
+        whatsapp: 2,
+      }
+    },
+  ]
+})

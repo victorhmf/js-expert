@@ -1,0 +1,23 @@
+[
+  {
+    "id": "d2eaef1a-be89-44e0-9c96-ce7b51105a3e",
+    "name": "Wrangler",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0a5c02ca-e56b-43fa-aa99-6f97d4b89f35",
+    "name": "Cruze",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "994e26c6-cc59-4961-b13d-8fc7c2601fff",
+    "name": "Grand Cherokee",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
